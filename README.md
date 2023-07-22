@@ -14,6 +14,6 @@
 | git commit-m"日志信息" 文件名    |             提交到本地库|  
 | git reflog                    |               查看历史记录|  
 | git reset --hard 版本号          |             版本穿梭|  
-
+> [vim基本使用](https://github.com/fengzuyi/vim)  
 
 
