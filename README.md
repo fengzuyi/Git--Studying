@@ -3,6 +3,10 @@
 **Git学习记录**  
 
 ---
+
+> git客户端下载官网地址：https://git-scm.com/download/win/ （选择自己需要的版本下载，无脑式安装就好，可以改一下安装路径（默认C盘））  
+> 安装完成之后得配置用户名和邮箱，点这[SSH](https://github.com/fengzuyi/Git-SSH.git) 😘
+---
 **一、命令集**  
 | Git常用命令    | 作用    |
 | ------------  | :------ |  
