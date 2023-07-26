@@ -57,6 +57,8 @@
 **五、IDEA集成Git**  
 1. 配置Git忽略文件
    > [git.ignore配置文件](https://github.com/fengzuyi/Git--Studying/commit/2846af202c228ca0060daf630cc0cb1f066be444)
-2. 
+2. idea连接github
+   >  *从github上面克隆代码，防止删库跑路！👍
+   >  *可以直接push到github！
 
 
